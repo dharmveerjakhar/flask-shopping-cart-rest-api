@@ -24,3 +24,5 @@ htmlcov/
 .coverage
 .coverage.*
 *,cover
+.pre-commit-config.yaml
+trufflehog/
